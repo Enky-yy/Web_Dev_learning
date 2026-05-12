@@ -18,7 +18,7 @@ console.log(obj)
  
 for (const key in obj) {  
         console.log(key)
-        console.log(ob)
+        console.log(obj[key])
 }
 
 for (const c of "Harry") {
